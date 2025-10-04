@@ -1,4 +1,4 @@
-package main;
+package fornecedor;
 import java.util.List;
 
 public class BalancoMassa {

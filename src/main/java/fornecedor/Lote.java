@@ -1,4 +1,4 @@
-package main;
+package fornecedor;
 
 public class Lote {
 	private String id;
